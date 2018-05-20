@@ -1,2 +1,10 @@
+# test data
+backup/
 
-backup/Robotics-Results.bak.csv
+# compiled classes
+bin/
+
+# Eclipse files
+.settings/
+.classpath
+.project
